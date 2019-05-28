@@ -1,5 +1,5 @@
 <p align="center">
-  ![Cover Image](./imgs/match3.png)
+  <img src"./imgs/match3.png"
 </p>
 
 ### Introduction
