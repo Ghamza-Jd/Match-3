@@ -1,7 +1,7 @@
-# Match-3
+![alt text](./imgs/match3.png)
 
 ### Introduction
-A Match-3 game is a block-based puzzle where you move blocks around in the game area to create groups of three or more that share a common attribute (such as a color or a shape).
+A Match-3 game is a block-based puzzle where you move blocks around in the game area to create groups of three or more that share a common attribute (such as a color or a shape).<br>
 Most of the Match-3 games solves the problem of "Unplayable Board State" by shuffling the tiles. It is said that: "Prevention is shall reap better than cure", for that this game implements an "Always have moves" algorithm, which ensures that we will not reach an unplayable state.
 
 ### Resources
