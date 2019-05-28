@@ -1,4 +1,6 @@
-![alt text](./imgs/match3.png)
+<p align="center">
+  ![Cover Image](./imgs/match3.png)
+</p>
 
 ### Introduction
 A Match-3 game is a block-based puzzle where you move blocks around in the game area to create groups of three or more that share a common attribute (such as a color or a shape).<br>
